@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello!
+I'm Towodile, or Towo for short. (he/they)
+<br>
+I'm studying to be a software engineer, and am now in my second year.
+<br>
+I program mainly in C#, but also use Java quite frequently!
 
+Find out more about me [here](https://linktr.ee/Towo).
 <!--
 **Towodile/Towodile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
