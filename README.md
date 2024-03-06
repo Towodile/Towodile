@@ -1,5 +1,5 @@
 ### Hello!
-I'm Towodile, or Towo for short. (he/they)
+I'm Towodile, or Towo for short. (she/they)
 <br>
 I'm studying to be a software engineer, and am now in my second year.
 <br>
