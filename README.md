@@ -1,9 +1,8 @@
 ### Hello!
 I'm Towodile, or Towo for short. (she/they)
 <br>
-I'm studying to be a software engineer, and am now in my second year.
+In my last year of study for becoming a Software Engineer.
 <br>
-I program mainly in C#, but also use Java quite frequently!
 
 Find out more about me [here](https://linktr.ee/Towo).
 <!--
