@@ -1,10 +1,11 @@
-### Hello!
-I'm Towodile, or Towo for short. (she/they)
+### hiiiii!! ^-^
+i'm Towodile, or Towo for short. (she/they)
 <br>
-In my last year of study for becoming a Software Engineer.
+i'm currently studying software engineering at [Fontys ICT](https://www.fontys.nl/Over-Fontys/Fontys-ICT.htm).
+really love making minecraft mods, plugins and datapacks :]
 <br>
 
-Find out more about me [here](https://linktr.ee/Towo).
+find out more about me [here](https://linktr.ee/Towo) !!!
 <!--
 **Towodile/Towodile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
